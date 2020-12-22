@@ -1,0 +1,105 @@
+body{
+    background-color:cornsilk ;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    margin-bottom: 0.5%;
+}
+.cabecalho h1{
+    padding-left: 40%;
+    color: white;
+}
+.cabecalho a{
+    color: brown;
+}
+.titulo-da-pagina{
+    text-align: center;
+    margin: 2%;
+}
+.texto{
+    padding-top: 15%;
+    font-size: x-large;
+}
+.texto a{
+    color: burlywood;
+    text-decoration: none;
+}
+.rodape{
+    background-color: burlywood;
+    padding: 20px;
+    margin-top: 20%;
+}
+.carrousel-inner h5, p{
+    color: black;
+}
+.cartao-1{
+    padding-left: 20%;
+    color: brown;
+}
+.cartao-2{
+    padding-left: 10%;
+    color: brown;
+}
+.roteiro{
+    padding-top: 10%;
+    font-size: x-large;
+    background-color: burlywood;
+}
+.roteiro h6{
+    font-size: x-large;
+}
+.video-convite{
+    padding-top: 10%;
+    background-color: blanchedalmond;
+}
+.linha-3{
+    padding-top: 10%;
+    height: 60%;
+}
+h6{
+    font-size:xx-large;
+    padding-bottom:10%;
+    padding-left: 20%;
+}
+.video-convite{
+    padding-bottom: 10%;
+    padding-left: 3%;
+}
+.linha{
+    color:chocolate;
+}
+.linha-4{
+    padding-top: 10%;
+}
+.texto-video{
+    background-color:blanchedalmond;
+    padding: 10%;
+    font-size: 1.4rem;
+    text-align: center;
+}
+.video-demonstrativo{
+    background-color: burlywood;
+    padding-top: 8%;
+    padding-left: 5%;
+}
+.texto-video h6{
+    font-size: 120%;
+    text-align: center;
+}
+.texto-video a{
+    text-decoration: none;
+    color: chocolate;
+}
+.botao a{
+    text-decoration: none;
+    color: white;
+}
+.linha-6{
+    padding-top: 10%;
+}
+.botao{
+    padding-left: 43%;
+}

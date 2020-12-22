@@ -1,0 +1,67 @@
+body{
+    background-color:cornsilk ;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    margin-bottom: 0.5%;
+}
+.nav-link{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.text-center{
+    text-align: center;
+}
+.cabecalho h1{
+    color: white;
+    padding-left: 40%;
+}
+
+.cabecalho-sobre{
+    margin-bottom: 20px !important;
+    font-size: 1.8rem;
+    margin: 0 auto;
+    color: chocolate;
+}
+
+h2{
+    font-size: 1.4rem;
+}
+
+img{
+    border-radius: 40px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.texto p {
+    margin-top: 15px;
+}
+.Redes-Sociais ul li{
+    list-style: none;
+    
+}
+.Redes-Sociais a{
+    font-size: 30px;
+    text-align: center;
+    display: inline;
+    padding: 2%;
+
+}
+
+
+.rodape{
+    background-color: burlywood;
+    padding: 20px;
+    margin-top: 20%;
+}
+
+h3{
+    font-size: 1.4rem;
+    color:cadetblue;
+}

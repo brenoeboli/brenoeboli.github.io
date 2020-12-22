@@ -1,0 +1,78 @@
+body{
+    background-color: cornsilk;
+    overflow-x: hidden;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: burlywood;
+    margin-bottom: 0.5%;
+}
+.cabecalho a{
+    color: brown;
+    text-decoration: none;
+}
+h2{
+    padding-left: 39%;
+}
+.cabecalho h1{
+    padding-left: 40%;
+    color: white;
+}
+h2{
+    color: chocolate;
+}
+.linha-1{
+    padding-top: 2%;
+}
+.coluna-1{
+    padding-left: 15%;
+}
+.coluna-2{
+    padding-right: 15%;
+}
+.linha-2{
+    padding-top: 3%;
+}
+.coluna-unica{
+    padding-left: 45%;
+}
+.paragrafo-apresentacao{
+    font-size: large;
+    padding: 0.5px;
+    text-align: center;
+    background-color: chocolate;
+    padding-top: 1%;
+}
+.linha-3{
+    padding-top: 5%;
+}
+.linha-4{
+    padding-top: 5%;
+}
+.Produto-1-texto{
+    background-color: burlywood;
+    padding: 5%;
+}
+.rodape{
+    background-color: burlywood;
+    padding: 20px;
+    margin-top: 20%;
+}
+.linha-5{
+    padding-top: 10%;
+}
+.Produto-2-texto{
+    background-color: chocolate;
+    padding: 5%;
+}
+p{
+    font-size: 1.2rem;
+}
+.linha-6{
+    padding-top: 10%;
+}
+.Produto-3-texto{
+    background-color: burlywood;
+    padding: 5%;
+}
